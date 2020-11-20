@@ -130,8 +130,8 @@
 [✓] Limpa String  
 [✓] Máxima Coordenada  
 [✓] Sentença Dançante  
-[ ] Apague e Ganhe  
-[ ] Comparação de textos  
+[x] Apague e Ganhe  
+[x] Comparação de textos  
 [✓] Counting Sort  
 [✓] Loteria  
 [✓] Os Verdadeiros Sete Anões da Branca de Neve  
