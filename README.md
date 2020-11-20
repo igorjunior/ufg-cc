@@ -101,5 +101,40 @@
 [✓] Próxima potência  
 [✓] Valor em Notas e Moedas  
 [✓] Cálculo de PI  
-[✓] Fatorial  
-[✓] Fatorial  
+## Lista 3 - Vetor
+[✓] Achei  
+[✓] Contagem  
+[✓] Elementos Pares do Vetor  
+[✓] Imprimir Um Vetor na Ordem Inversa   
+[✓] Ler e Imprimir  
+[✓] Quantas Letras?  
+[✓] Um_Dois_Três  
+[✓] Zero Vale Zero  
+[✓] Criptografia  
+[✓] Conversão de Decimal para Binário  
+[✓] Frequência e Maior   
+[✓] Inverte Vetor  
+[✓] Ordena Lista  
+[✓] Maior Frequencia   
+[✓] Menor Distancia  
+[✓] Prefixo de Uma String  
+[✓] Procura Caractere  
+[✓] Sequência Espelho  
+[✓] Aliteração  
+[✓] Aula Cancelada  
+[✓] Avance as Letras  
+[✓] Contagem de Elementos Únicos  
+[✓] CPF  
+[✓] Elementos Únicos  
+[✓] Frequência de Letras   
+[✓] Limpa String  
+[✓] Máxima Coordenada  
+[✓] Sentença Dançante  
+[ ] Apague e Ganhe  
+[ ] Comparação de textos  
+[✓] Counting Sort  
+[✓] Loteria  
+[✓] Os Verdadeiros Sete Anões da Branca de Neve  
+[✓] Counting Sort   
+[✓] União e intersecção de conjuntos  
+[✓] Intercala  
