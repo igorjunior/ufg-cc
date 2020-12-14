@@ -11,6 +11,9 @@
 [✓] Elementos únicos da Matriz  
 [✓] Matriz bissimétrica  
 [✓] Separador de palavras  
+## Prova 4 - Matriz
+[✓] Rede de Contatos no Twitter  
+[✓] Polinômios   
 
 # Listas
 ## Lista 1 - Expressão/Seleção/Repetição
