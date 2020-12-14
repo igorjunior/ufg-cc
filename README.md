@@ -141,3 +141,29 @@
 [✓] Counting Sort   
 [✓] União e intersecção de conjuntos  
 [✓] Intercala  
+
+## Lista 4 - Matrizes
+[✓] Determinante 2x2  
+[✓] Diagonal Principal  
+[✓] Diagonal Secundária
+[✓] Ler e Imprimir   
+[✓] Matriz xadrez  
+[✓] Quadrado de matriz 2x2
+[✓] Ampulheta  
+[✘] Desenha bordas  
+[✓] Matriz xadrez numerada
+[✓] Operações matriciais  
+[✓] Cadê o Wally?  
+[✓] Cidade Segura 
+[✓] Ordena Lista  
+[✓] Desenha quadrados   
+[✓] Menor Distancia  
+[✓] Frequencia do Maior e Menor  
+[✓] Imprime matriz em espiral  
+[✓] Logotipo na TV da vovó  
+[✓] Loteria  
+[✓] Matriz Ordenada  
+[✘] Potência de Matrizes  
+[✘] Troca Maior e Menor 
+[✓] Turismo  
+[✓] Valida Sudoku
