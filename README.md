@@ -150,7 +150,6 @@
 [✓] Matriz xadrez  
 [✓] Quadrado de matriz 2x2
 [✓] Ampulheta  
-[✘] Desenha bordas  
 [✓] Matriz xadrez numerada
 [✓] Operações matriciais  
 [✓] Cadê o Wally?  
@@ -163,7 +162,5 @@
 [✓] Logotipo na TV da vovó  
 [✓] Loteria  
 [✓] Matriz Ordenada  
-[✘] Potência de Matrizes  
-[✘] Troca Maior e Menor 
 [✓] Turismo  
 [✓] Valida Sudoku
